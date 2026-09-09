@@ -87,7 +87,8 @@ This project demonstrates the following networking concepts:
 
 ## 🖼️ Network Topology
 
-![Network Topology](topology.png)
+![Network Topology](<img width="1431" height="710" alt="01-project1-topology" src="https://github.com/user-attachments/assets/16065367-1dcd-414d-9909-71a55c4a449c" />
+)
 
 ---
 
