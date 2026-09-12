@@ -1,4 +1,4 @@
-# Project 2 Company Nework
+# Project 2 Company Network
 
 Welcome to my **CCNA Networking Projects** repository.
 
