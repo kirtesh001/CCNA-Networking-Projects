@@ -57,5 +57,4 @@ More projects will be added as I continue learning and practicing networking.
 | Project | Topic | Status |
 |--------|-------|--------|
 | Project 1 | Branch Office WAN | ✅ Completed |
-| Project 2 | Coming Soon | 🔄 |
-| Project 3 | Coming Soon | 🔄 |
+| Project 2 | Company Network | ✅ Completed  |
